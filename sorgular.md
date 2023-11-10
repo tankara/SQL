@@ -13,3 +13,8 @@ Bu komutla CUSTOMER kaydının Age özelliği değiştirilmiştir.
 ### DELETE SORGUSU
 ```DELETE FROM CUSTOMER ```
 Bu komutla bir tablodaki değer silinir.
+
+### WHERE SORGUSU
+```SELECT * FROM CUSTOMER WHERE COLUMN=DEGER1```
+Bu komutla tablodaki istenen kolon ve kolonlardaki bilgileri getirir.
+
